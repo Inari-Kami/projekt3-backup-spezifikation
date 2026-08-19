@@ -334,7 +334,7 @@ und Protokolle.
 Quellenart. Die Rolle ist so aufgebaut, dass ein weiteres System ergänzt
 werden könnte, umgesetzt wird es nicht.
 
-# 7. Offene Punkte und Einschränkungen
+# 7. Einschränkungen und Risiken
 
 **Laufende Kosten der Zweitkopie.** Der Cloud-Knoten aus F12 verursacht als
 einzige Komponente wiederkehrende Kosten. Sie liegen im Bereich weniger
